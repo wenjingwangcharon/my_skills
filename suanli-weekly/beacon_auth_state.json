@@ -1,0 +1,270 @@
+{
+  "cookies": [
+    {
+      "name": "x_host_key_access_https",
+      "value": "c60df9afb6dc452d363192851f82745143094800_s",
+      "domain": ".woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-client-ssid",
+      "value": "4a622415:019f6e629698:1ab5af",
+      "domain": ".woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "timezone",
+      "value": "8",
+      "domain": "std.passport.woa.com",
+      "path": "/",
+      "expires": 1819421387.282496,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tof_hn",
+      "value": "aHR0cHM6Ly9zdGQucGFzc3BvcnQud29hLmNvbQ",
+      "domain": "std.passport.woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "P_RIO_TOKEN",
+      "value": "0.tiayh3.hmC3uvhKu8LlZ18TMY3An4lJCh0_4TJid5lFZZl6Gr6Z7pkSXunjtqaym4yF0pm2ZsqKEGj-IChlcLH1zCbUlyp0nwBXJfhl945F6vCk-O9imGN7RgwNgOh7dDv73H_wktP00gJRWvkoKgl8pGGPu2T1rVRnQX-kkMRdDNA4L0V1p_VazE1HaKcrWDAS3z50Yp5W3kG8ov_qkbbydxg587I5PKa-2LGdRl7J5JqlzmPGMqRFk1CXQz4I6nVWBsWuDcAO6KlQ_AqigyHo-SypedDAYzUu8wu4mCib8cfRGNn_DkYB9POnltIypQ_neernmqBxkyGs8io0JSkYqs6QB3QMYJEwwnS7zczz2g3gZUXery6zDVMbmgZ70QbM3GDUNECZyL9p0w6OJuHDf42FYxThjQKx-lysjC1gHd5tyKxbUEc5IDKBYXbF5CHldu_hzsylUe08cHgXfEi138zcwQR0BhESOnQZarYm7zxi-y73oTjoaLIaPTuebr2JrChN2Q5ArhZPRUPzAhVwyT5Cb2Wt8JhEoZkffrCMzZOWRjxS-voerYnegkKbdhcSsig96wkNQZ7716bhGB6SkyDDz4twqxiYxWnkjFfcquT37_l7WW4ZuGx432RAA7Pivo2PEgY_VB8KAO9fEHlT3fOinbm54-gflFnOaEcOQ22fPpY-X-cWZQy_jm9n-FjAcmv9iop5_rjaOUuoDMWaHt4sxGQD7K0-vshZGAkdUXu6rLRWm5bY7VDmJOiUMinQYeRp1T41l4Ax_HOiP3WkveCQyqA-nEBMfA189d_01kZR0g5Vokr48AbmDKpInJ3cXJYC5TxBRtE7ohUOS4bEAKNTQdOXRCXQkXsnaOnQXycZKX5ZUUu7ew.SAFwLiok4j4NkUF9YGuicw",
+      "domain": "datatalk-inner.beacon.woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tof_auth",
+      "value": "eyJrZXkiOiIzNFFSRTJxbldyaWFnUW9wNHgxTmozVjc5dWdvWkppNCIsInRjIjoiIiwiaXNzIjoiMTAuODguMTMzLjE1NiIsImF1ZCI6IkFFRTBDOEFELTY1RTktNTU3My04MzUzLTA5OUNGMzc3RjJGMyIsInBoIjoiOGZlMjlhNTBmMzU4ZjU3N2QwYzE0MzAwMGE2YmRhMDgiLCJoYXNoIjoiM0FCMTBFMzVFRUUyRjA4MDE4MkEwREU4RTJDMzNGM0FFQzcyNjgzRkNFMzk5QUQxQUE3MTMwNDE4RTZCRDJENSJ9",
+      "domain": ".passport.woa.com",
+      "path": "/",
+      "expires": 1784947870.320653,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "RIO_TOKEN",
+      "value": "0.tinrxa.xOdrM0_7al1Z4rXy6OrXIG2YcjzqBaN6yquSbMB8DQ22WzTlwNhv9cOwJVAyajGcoZxcoN62tVux7gWQNktIqViPXOcVfxk6x-W_HkkLejgzc-3HDmYJ87bxxMeNQZarrvo8ORmdVIWaSGWaMwhxZgIW0umj2FVS2KG1UxBNTaid0cytwnLyIITyp5eRLDF5oCblJ3tmq1n5GQx7lYI05-B8467iIoNEQXun9cFkl-9CsWhVhgntsMQ_Ws0U7j-fObz64rS5CarSDLI3T7eEL9QbA7Fm5g8cLbjHTnGf9QtmrNM9cHmZY5kDb4q3oKVHBG0EMjhjVImq37pP5kZ6b5fu08s9gjAi9FULCm4sThKFIwhh3ZdeUfdGZPRyLn6lQax1fD57W0zs6wcBN4-A4-baqls8kGv1fK1nE4xpPZ-Yqe2eOs_tH4BGEN4efiVI4rr-s2Y5XyYwkAcpcJAJ9dJXO-a232nARyx9giwUcy0qWA2KtVzEg0Nlt83mhM_4bHmibkMERdLJwrHgC952U5TQtRu-7nR2LmQIZ13b5gMUmrirON_KfbocSyzyK07-Lrq_TgOPxM1VcEonG3qUq5rfwRPEhFtxeaMmOg9LGYfQkoHFpdA.IWNsGOlPcxuQaOFTVCZnFw",
+      "domain": ".woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "RIO_TOKEN_HTTPS",
+      "value": "0.tinrxa.xOdrM0_7al1Z4rXy6OrXIG2YcjzqBaN6yquSbMB8DQ22WzTlwNhv9cOwJVAyajGcoZxcoN62tVux7gWQNktIqViPXOcVfxk6x-W_HkkLejgzc-3HDmYJ87bxxMeNQZarrvo8ORmdVIWaSGWaMwhxZgIW0umj2FVS2KG1UxBNTaid0cytwnLyIITyp5eRLDF5oCblJ3tmq1n5GQx7lYI05-B8467iIoNEQXun9cFkl-9CsWhVhgntsMQ_Ws0U7j-fObz64rS5CarSDLI3T7eEL9QbA7Fm5g8cLbjHTnGf9QtmrNM9cHmZY5kDb4q3oKVHBG0EMjhjVImq37pP5kZ6b5fu08s9gjAi9FULCm4sThKFIwhh3ZdeUfdGZPRyLn6lQax1fD57W0zs6wcBN4-A4-baqls8kGv1fK1nE4xpPZ-Yqe2eOs_tH4BGEN4efiVI4rr-s2Y5XyYwkAcpcJAJ9dJXO-a232nARyx9giwUcy0qWA2KtVzEg0Nlt83mhM_4bHmibkMERdLJwrHgC952U5TQtRu-7nR2LmQIZ13b5gMUmrirON_KfbocSyzyK07-Lrq_TgOPxM1VcEonG3qUq5rfwRPEhFtxeaMmOg9LGYfQkoHFpdA.IWNsGOlPcxuQaOFTVCZnFw",
+      "domain": ".woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "P_RIO_TOKEN",
+      "value": "0.tinrxa.xAFqM077vchWB8rBOHlKgyZXKZN8EZ9iEhbee9wRXHNpCnlXuBlmcGJs97uFeHyxMBoGqPyQRnLrEvFZmBaVYi_rO4bL71A-5rWlzMdcarkL_NBbaWVqOhyDJJK4n04o2ISnvloCEqQYwVXsMOTRTj0fCLvbtoJ27f7brZGSXsvXaS_wKS2HSunM_CIhtbO1FgS1q4g5sAUyAGsqyHd6D5DtLdKzo1xCiMgBRd_kq76p7dsoWcHDZT7KW-UBvak6-zTT749reD9EMSIC3BrzVEModzrabjh-qXL3iYbHt4-L8N67UNaNiAPCVL7O2Jdga0mnAcbXMmAkkvVeJbxkTTpoLMyDhdBfN7T4J1NPnvBVhqQ5N0RrXXqtvCwuOqQBafnJQo6O6pzWDTdzWZ48YsaBDPwv56c2-wJa3WpRxewbU97vLdn0Ya9UAQk4Bt2kj7wBnvYP7F2KxE5Z4PpzmSODxT2lPjs-3MmigNHjcRVxbctgbS0yq0wc7tRinhjQukVlhj3LXUZAZ-3CtJEvlXjviUJ2JgtgTHwsJeL9qZMcd4NEmNqaNrL8X-V6ovFGdCs7XnO2cgCCS0WjdBtxMUOtKZulJJcckH-NOOQEEj-cFvVnkUXUusobkeo6OlC2MJYOua0eWIEmzp4zZqBHRs1kIaK597qdLgqeCVFFbfJbUoAxL0HjhsVixwk7ZoFb3MdioEtzEup9AvdQfbBGWftBPipVCTrN4Hpz3ycfD-MoQ71dgsBXWnmd-IoabrVPPykyd3zCwYvWc9oXFp3ylxP9LNWmxzEL.x4dpwm4YNnEW50kE4Oo2zg",
+      "domain": "beacon.woa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://beacon.woa.com",
+      "localStorage": [
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_beacon_config",
+          "value": ""
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_beacon_config_request_time",
+          "value": "1784861470959"
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_4.5.20-web_direct_log_id",
+          "value": "10"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_session_storage_key",
+          "value": "{\"sessionId\":\"0WEB06JCXF4KE5DZ_1784263435549\",\"sessionStart\":1784263435549}"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_last_report_time",
+          "value": "1784861470960"
+        },
+        {
+          "name": "__BEACON_DT__PAGE_VISITED__",
+          "value": "1"
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_beacon_config_request_time",
+          "value": "1784861471005"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_is_new_user",
+          "value": "false"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_4.5.9-web_direct_log_id",
+          "value": "2"
+        },
+        {
+          "name": "__BDS_LAST_SPACE_NAME__",
+          "value": "ima"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_session_storage_key",
+          "value": "{\"sessionId\":\"JS0RDUHE2V65QO_1784861470960\",\"sessionStart\":1784861470960}"
+        },
+        {
+          "name": "aegis_session_id",
+          "value": "{\"id\":\"SDK-bb120f5f6be596864386\",\"sessionId\":\"aa752de481610185d2b01f523b9a3988\"}"
+        },
+        {
+          "name": "__BEACON_deviceId",
+          "value": "16Xtmipy4bp1SXXEH7Jk4xmBw9e4xXyf"
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_is_new_user",
+          "value": "false"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_logid_start",
+          "value": "1784263435549"
+        },
+        {
+          "name": "BEACON_BASE_SIDEBAR_SWITCH_TOOLTIPS",
+          "value": "true"
+        },
+        {
+          "name": "BDS_FRONTCONFIG",
+          "value": "{\"navigationConfig\":{\"iegBizId\":[\"1680\"],\"amsBizId\":[\"1888\",\"1889\"],\"tabHost\":[\"tab.woa.com\",\"testtab.woa.com\"]},\"iframeConfigList\":[{\"name\":\"data-prep\",\"url\":\"https://beacon.woa.com/ui/dataprep/app/dataprep\"}],\"aiTestSpaceConfig\":{\"tomoro\":{\"bizIdList\":[],\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/table-app/inner/prerelease/index.html\"}},\"loginConfig\":{\"method\":\"silentLogin\",\"url\":\"/api/dataauth/authserver/login?needLoginParam=false&loginChannel=IOA&dataAuthRedirectUrl=\"},\"defaultGuides\":[{\"id\":\"wiki\",\"url\":\"https://ola.pages.woa.com/OL/N1.html\"},{\"id\":\"feedback\"},{\"id\":\"auth\"}],\"plugins\":{\"useLocalNavigation\":true,\"useLocalSidebar\":true},\"olaChatConfig\":{\"whiteSpaceList\":[\"2Oh4Vex8\",\"BeaconQimei\",\"legos_river\",\"yuanbao\",\"pcg_qqchannel_datatalk\",\"Dola_game\",\"OlaChat\",\"OlaChatDataSource\",\"Olachat_knowledge_base\",\"QQBrowser\",\"U82\",\"audit\",\"bigdata_platform_cost\",\"boom_test_dataInsight\",\"dan_30\",\"data_governance_comic\",\"data_governance_news\",\"data_governance_qq\",\"data_governance_qqbrowser\",\"data_governance_qqkandian\",\"data_governance_txsport\",\"data_governance_video\",\"data_governance_weishi\",\"data_governance_yyb\",\"datagovern_dwd\",\"datagovern_dws\",\"dh_comic\",\"dh_qqkandian\",\"dh_sport\",\"dh_video\",\"dh_weishi\",\"dh_yyb\",\"dqc_test\",\"dt__novel_30\",\"dt_datong20demo\",\"dt_dwdlink_verify_30\",\"dt_gfource_icreate_web_30\",\"dt_lite_ams_adcore_15\",\"dt_lite_beacon_4\",\"dt_lite_busi231878_54\",\"dt_lite_busi2332_88\",\"dt_lite_busi2338_86\",\"dt_lite_busi242042_76\",\"dt_lite_busi283516_8\",\"dt_lite_busi283557_94\",\"dt_lite_busi283567_90\",\"dt_lite_busi293244_10\",\"dt_lite_busi293245_98\",\"dt_lite_busi295746_8\",\"dt_lite_busi295747_48\",\"dt_lite_busi295748_94\",\"dt_lite_busi295760_11\",\"dt_lite_busi303_30\",\"dt_lite_busi304_64\",\"dt_lite_busi306_48\",\"dt_lite_busi314_42\",\"dt_lite_busi315_78\",\"dt_lite_busi53163_77\",\"dt_lite_busi54528_87\",\"dt_lite_busi54563_25\",\"dt_lite_busi6510_40\",\"dt_lite_busi6511_23\",\"dt_lite_busi6523_8\",\"dt_lite_busi6525_44\",\"dt_lite_busi786246_78\",\"dt_lite_busi853593_13\",\"dt_lite_busi853601_66\",\"dt_lite_busi853643_51\",\"dt_lite_busi948626_11\",\"dt_lite_busidd_73\",\"dt_lite_busifff_66\",\"dt_lite_busii28_71\",\"dt_lite_captcha_intl_15\",\"dt_lite_cdw_olap_55\",\"dt_lite_cnb_29\",\"dt_lite_coding_14\",\"dt_lite_cpsp_5\",\"dt_lite_creator_center_54\",\"dt_lite_csig_13\",\"dt_lite_csmp_71\",\"dt_lite_embodied_ai\",\"dt_lite_flexible_code_86\",\"dt_lite_gongfeng_tencent_96\",\"dt_lite_hunyuan_44\",\"dt_lite_icos_23\",\"dt_lite_isd_aqgh_29\",\"dt_lite_isearch_80\",\"dt_lite_kaiwu_9\",\"dt_lite_kazan_17\",\"dt_lite_mdnf_76\",\"dt_lite_omp_dev3_45\",\"dt_lite_ovb_5810_8\",\"dt_lite_ovb_6796_96\",\"dt_lite_teg_yg_operation_17\",\"dt_lite_tencent_video_media_41\",\"dt_lite_tencent_video_media_6\",\"dt_lite_tencent_video_media_66\",\"dt_lite_tencent_video_media_82\",\"dt_lite_wedoclient_94\",\"dt_lite_yka_28\",\"dt_ssv_30\",\"dt_test\",\"eagoo\",\"factory\",\"g_pcg_datagovernance_video\",\"idmap_statability\",\"lineage_logic\",\"love\",\"meta_demo\",\"metric_and_datamap\",\"ola_accout\",\"ola_api\",\"ola_api_cloud\",\"ola_cost_manger\",\"ola_datatalk_test\",\"ola_factory\",\"ola_meta\",\"ola_monitor\",\"ola_pcg_data_cost\",\"ola_quality\",\"ola_tch\",\"olab_integration_pre\",\"olab_integration_production\",\"olab_integration_test\",\"olaepc\",\"olasql_test\",\"olatest\",\"pcg_asc_bm\",\"pcg_asc_mm\",\"pcg_bigdata_cost\",\"pcg_data_quality\",\"pcg_dataepc\",\"pcg_meta_data\",\"pcg_meta_monitor\",\"pcg_ola_algo\",\"pcg_ola_lineage_monitor\",\"pcg_ola_query\",\"pcg_queue_dynamic_schedule\",\"pcg_unimeta\",\"peiruiceshiceshi\",\"peiruili\",\"peiruilihhhha\",\"qimei_show\",\"sql_column_debug\",\"tx_news\",\"unimeta\",\"wymanwei_test\",\"zuolintestdata\",\"zxn_test\"],\"whitelist\":{\"recommendations\":[\"beacon_data\",\"OlaUserProfile\",\"pcg_news_dw\",\"shouq\",\"oldman_ex\",\"txsp\",\"ssmd_xbox\",\"little_world\",\"dnspod\",\"ymp\",\"ott\",\"demo1\",\"ssmd_soc\",\"sogou\",\"idcfre_report\",\"ssdi\",\"weibaoguanli\",\"ams_creative\",\"docs\",\"cps\",\"andata\",\"video_iwan_game_data\",\"wxg_diting_security\",\"tcmpp_001\",\"cdg_audit\",\"tencent_ess\",\"ssv_data\",\"qzone\",\"mmecsec\",\"imur_data\",\"live_fengcheng\",\"hunyuan\",\"GLauncher\",\"backend\",\"TXMap\",\"yyb_bi\",\"tianshu\",\"*\"]},\"olaMicroAppServiceHost\":\"ola.woa.com\"},\"navSpaceSwitchConfig\":{\"datong\":{\"app\":{\"alias\":\"大同应用\"},\"biz\":{\"alias\":\"大同产品\",\"bizSettingUrl\":\"/d/setting/appinfo?appId=#app#\"},\"business\":{\"searchPlaceholder\":\"可输入关联业务名称搜索空间\"}},\"tx\":{\"biz\":{\"searchPlaceholder\":\"支持空间名搜索\",\"bizAllUrl\":\"/spaceManage\",\"bizCreateUrl\":\"wxwork://message?uin=8444252947321204\",\"bizCreateHelper\":\"天象小秘\"},\"business\":{\"searchPlaceholder\":\"可输入BG/业务/业务线搜索空间\",\"alias\":\"天象空间\"}},\"ola-lab\":{\"biz\":{\"bizAllUrl\":\"/#/workbench-new/?bizId=#business#&workbenchId=#biz#\",\"backendAppKey\":\"ola\",\"ifCheckBizParentOrg\":true,\"bizSettingUrl\":\"/#/workbench-new/manage/basic?bizId=#business#&workbenchId=#biz#\",\"bizCreateHelper\":\"OLA小秘\"},\"business\":{\"searchPlaceholder\":\"可输入BG/业务/业务线搜索空间\"}}},\"exemptionUnbelongingBizConfig\":{\"exemptUnbelongingBiz\":[\"test_gallon\",\"test_bp1\",\"timicost\",\"bole\",\"recruit_wxwork\"],\"exemptUrlRegex\":[\".*\\\\/datainsight\\\\/.*\\\\/report\\\\/.*\",\".*\\\\/datainsight\\\\/.*\\\\/model\\\\/.*\",\".*\\\\/datainsight\\\\/.*\\\\/report\\\\/.*\",\".*\\\\/datainsight\\\\/xingpanPush.*\"],\"targetSubApp\":[\"data_talk\",\"data_link\",\"cdp\",\"beacon_olap\"]},\"globalSearchConfig\":{\"olaMicroAppServiceHost\":\"ola.woa.com\"},\"navGuideConfig\":{\"showNavSubscribeNotify\":[\"yuanbao\",\"beacon_data\",\"bennett_test\"]},\"sidebarConfig\":{\"bottomLogo\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/tech-pcg-logo.png\"},\"lineageConfig\":{\"discoverMicroAppServiceHost\":\"olafe.woa.com\",\"olaMicroAppServiceHost\":\"ola.woa.com\"},\"userFeedBack\":{\"enabledAppKeys\":[\"dataauth\",\"console\",\"datareporting\",\"datatalk\",\"datainsight\",\"dataaudience\",\"datalink\",\"mixquery\",\"dataassets\",\"datamanager\",\"monitor\",\"tomoro\",\"tx\",\"datong\",\"tab\"],\"position\":{\"bottom\":\"192px\",\"right\":\"10px\"},\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=936a86ea4fef49fd\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询灯塔小秘\",\"url\":\"wxwork://message?uin=8444252851319680\"}]},\"orderGroup\":[\"dataSharing\",\"dataAnalyze\",\"devGovernance\",\"dataApplication\",\"dataScience\",\"otherApp\"],\"redirectRegexMap\":{\".*\\\\/datainsight\\\\/.*\\\\/model\\\\/.*\":{\"replacement\":\"xingpan\",\"target\":\"datainsight\"},\".*\\\\/datainsight\\\\/xingpanPush.*\":{\"replacement\":\"xingpan\",\"target\":\"datainsight\"},\".*\\\\/datainsight\\\\/.*\\\\/report\\\\/.*\":{\"replacement\":\"xingpan\",\"target\":\"datainsight\"}},\"sidebarAllAppList\":[{\"moduleType\":\"dataAnalysis\",\"name\":\"仪表盘\",\"appkey\":\"datatalk\",\"urlPath\":\"/${biz}/dashboard\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"自助分析\",\"appkey\":\"datatalk\",\"urlPath\":\"/${biz}/card\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"创作台\",\"appkey\":\"datatalk\",\"urlPath\":\"/${biz}/workspace\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"电子表格\",\"appkey\":\"tomoro\",\"urlPath\":\"/${biz}\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"敏捷分析\",\"appkey\":\"datainsight\",\"urlPath\":\"/${biz}/Analysis_List\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"数据管家\",\"appkey\":\"datamanager\",\"urlPath\":\"/${biz}\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"查询引擎\",\"appkey\":\"mixquery\",\"urlPath\":\"/${biz}/data/database\"},{\"moduleType\":\"dataAnalysis\",\"name\":\"集成开发\",\"appkey\":\"datahub\",\"urlPath\":\"/team/${team}/zone/${biz}/chain/list\"},{\"moduleType\":\"userPortrait\",\"name\":\"用户分群\",\"appkey\":\"tx\",\"urlPath\":\"/crowd/create/overview\"},{\"moduleType\":\"userPortrait\",\"name\":\"画像洞察\",\"appkey\":\"tx\",\"urlPath\":\"/analysis/distribution\"},{\"moduleType\":\"userPortrait\",\"name\":\"画像资产\",\"appkey\":\"tx\",\"urlPath\":\"/assets/tagRepo\"},{\"moduleType\":\"userPortrait\",\"name\":\"画像实验室\",\"appkey\":\"tx\",\"urlPath\":\"/assets/tagLabRepo\"},{\"moduleType\":\"abTest\",\"name\":\"实验管理\",\"appkey\":\"tab\",\"urlPath\":\"/experiment/list?business=${biz}\"},{\"moduleType\":\"abTest\",\"name\":\"配置开关\",\"appkey\":\"tab\",\"urlPath\":\"/remote-config/config?business=${biz}\"},{\"moduleType\":\"abTest\",\"name\":\"实验收益\",\"appkey\":\"tab\",\"urlPath\":\"/exp-benefit/board?business=${biz}\"},{\"moduleType\":\"abTest\",\"name\":\"人群受众\",\"appkey\":\"tab\",\"urlPath\":\"/crowd/usertags?business=${biz}\"},{\"moduleType\":\"dataApplication\",\"name\":\"低代码应用\",\"appkey\":\"wuji\",\"urlPath\":\"/xy\"},{\"moduleType\":\"dataApplication\",\"name\":\"在线编码\",\"appkey\":\"venus\",\"urlPath\":\"/\"},{\"moduleType\":\"dataApplication\",\"name\":\"工作流管理\",\"appkey\":\"datalink\",\"urlPath\":\"/${biz}/list\"},{\"moduleType\":\"dataTracking\",\"name\":\"埋点地图\",\"appkey\":\"datong\",\"urlPath\":\"/#/d/trackingMap/search?appId=${app}\"},{\"moduleType\":\"dataTracking\",\"name\":\"埋点设计\",\"appkey\":\"datong\",\"urlPath\":\"/#/d/repdesign/story/list?appId=${app}\"},{\"moduleType\":\"dataTracking\",\"name\":\"埋点管理\",\"appkey\":\"datong\",\"urlPath\":\"/#/d/repmanage/position/page?appId=${app}\"},{\"moduleType\":\"dataTracking\",\"name\":\"埋点质量\",\"appkey\":\"datong\",\"urlPath\":\"/#/d/dataquality/monitor/watch?appId=${app}\"},{\"moduleType\":\"dataTracking\",\"name\":\"埋点接出\",\"appkey\":\"datong\",\"urlPath\":\"/#/d/dataout/link/dataout-list?appId=${app}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据规划\",\"appkey\":\"ola-lab\",\"urlPath\":\"/#/olab/scheme/db_standard?bizId=${business}&workbenchId=${biz}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据建模\",\"appkey\":\"ola-lab\",\"urlPath\":\"/#/olab/develop?bizId=${business}&workbenchId=${biz}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据发布\",\"appkey\":\"ola-lab\",\"urlPath\":\"/#/olab/publish/submit?bizId=${business}&workbenchId=${biz}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据运维\",\"appkey\":\"ola-lab\",\"urlPath\":\"/#/olab/operation/?bizId=${business}&workbenchId=${biz}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"指标建模\",\"appkey\":\"ola-lab\",\"urlPath\":\"/#/workshop/business/indexlist/all?bizId=${business}&workbenchId=${biz}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"质量引擎\",\"appkey\":\"ola-quality\",\"urlPath\":\"/quality/data-quality/quality-overview?workbenchId=${biz}&bizId=${business}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据服务\",\"appkey\":\"ola-lab\",\"urlPath\":\"/#/apicloud/process/?bizId=${business}&workbenchId=${biz}\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"资产中心\",\"appkey\":\"ola-govern\",\"urlPath\":\"/#/govern/overview/asset\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"成本中心\",\"appkey\":\"ola-govern\",\"urlPath\":\"/#/govern/costcenter/cost\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"治理方案\",\"appkey\":\"ola-govern\",\"urlPath\":\"/#/govern/plan/detail\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"治理执行\",\"appkey\":\"ola-govern\",\"urlPath\":\"/#/govern/execute/detail\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据发现\",\"appkey\":\"ola-discover\",\"urlPath\":\"/#/data-market-i\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据地图\",\"appkey\":\"ola-discover\",\"urlPath\":\"/#/data-market-i/oteam/assets/list?buinessId=${business}&type=type\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"数据洞察\",\"appkey\":\"ola-discover\",\"urlPath\":\"/#/data-market-i/insight\"},{\"moduleType\":\"dataDevelopment\",\"name\":\"我的数据\",\"appkey\":\"ola-discover\",\"urlPath\":\"/#/data-market-i/my-data/albums\"},{\"moduleType\":\"dataScience\",\"name\":\"TAB实验平台\",\"appkey\":\"tab\",\"urlPath\":\"/?business=${biz}&appGroup=abtest\"},{\"moduleType\":\"dataScience\",\"name\":\"TAB因果推断\",\"appkey\":\"tab\",\"urlPath\":\"/?business=${biz}&appGroup=causal\"},{\"moduleType\":\"dataScience\",\"name\":\"TAB云控配置\",\"appkey\":\"tab\",\"urlPath\":\"/?business=${biz}&appGroup=config\"}],\"dataManagerConfig\":{\"lineage\":[{\"side\":\"bottom\",\"description\":\"以可视化方式展示资产之间的元数据血缘图谱，无需通过脚本逐一分析，轻松理解资产直接和间接血缘哦！\",\"title\":\"数据集，上新血缘图谱啦！\",\"element\":\"#detail-page-tabs-text-data-lineage\"}],\"jumpIndependentTomoro\":true,\"independentTomoroBaseUrl\":\"https://beacon.woa.com/after_tomoro\",\"heatSortBizIds\":[\"yuanbao\"],\"whiteSpaceStarrocksAuthRule\":[\"txsp\",\"beacon_test_2022_prod2\",\"KAIROS\"],\"jumpIndependentTomoroBizIdList\":[\"all\"],\"disableEventDelBtnIds\":[\"1022656\"],\"whiteSpaceFieldDsValidate\":[\"beacon_data\",\"nfa\",\"mtt_novel\",\"liulanqi\",\"xingpan_demo\"],\"whiteSpaceAIKnowledge\":[\"shouq\",\"miniapp\",\"docs\",\"QQVIP\",\"qq_olap\"]},\"navSpaceGuidConfig\":{\"datong\":[{\"description\":\"大同工作台升级改造在这个位置啦，支持一键切换，搜索、权限申请等\",\"element\":\"#guide-organization-main\"},{\"description\":\"点击此处查看全部应用\",\"element\":\"#guide-organization-all-biz\"},{\"description\":\"点击此处进入大同应用设置\",\"element\":\"#guide-organization-biz-setting\"},{\"description\":\"点击此处进行空间权限设置\",\"element\":\"#guide-organization-auth-setting\"}],\"search\":[{\"side\":\"bottom\",\"description\":\"支持搜索库表、看板、图卡、实验、指标、产品、文档等\",\"title\":\"元数据搜索能力升级啦！\",\"element\":\"#metadata-search-guide\"}],\"tab\":[{\"description\":\"TAB空间升级改造在这个位置啦，支持一键切换，搜索、权限申请等\",\"element\":\"#guide-organization-main\"}],\"tx\":[{\"description\":\"天象工作台升级改造在这个位置啦，支持一键切换，搜索、权限申请等\",\"element\":\"#guide-organization-main\"},{\"description\":\"点击此处查看全部空间\",\"element\":\"#guide-organization-all-biz\"}],\"ola\":[{\"description\":\"OLA工作台升级改造在这个位置啦，支持一键切换，搜索、权限申请等\",\"element\":\"#guide-organization-main\"},{\"description\":\"点击此处查看全部空间（工作台）\",\"element\":\"#guide-organization-all-biz\"},{\"description\":\"点击此处设置空间属性\",\"element\":\"#guide-organization-biz-setting\"},{\"description\":\"点击此处进行空间（工作台）设置\",\"element\":\"#guide-organization-auth-setting\"}]},\"domain\":\"beacon.woa.com\",\"microAppFetch\":{\"matchIgnoreUrls\":[\"XgRxnjPP1VjLmqr\",\"O7VXl9Obeoj8WRA\",\"beacon_data_suite/static/css-vars\"],\"matchSimpleUrls\":[\"res.wx.qq.com\",\"mat1.gtimg.com\",\"resource.growth.qq.com\"],\"matchCredentialsUrls\":[\"^((?!xiaoman).)+\\\\.woa\\\\.com\"]},\"microApps\":[{\"mobile\":{\"match\":\".*\"},\"landPageUrl\":\"/${biz}/dashboard\",\"microAppOpts\":{\"matchNoHanldeUrls\":[\"apikey.map.qq.com/mkey/index.php/mkey/check\",\"confinfo.map.qq.com/confinfo\"]},\"rightSidebar\":{\"menuList\":[{\"svg\":true,\"icon\":\"ola-chat\",\"id\":\"ola-chat\",\"tooltipContent\":\"OlaChat\",\"type\":\"custom\",\"order\":111}],\"enableSideBar\":true},\"url\":\"//datatalk-inner.beacon.woa.com/\",\"beAppKey\":\"data_talk\",\"userFeedBack\":{\"customGuide\":[{\"guides\":[{\"title\":\"什么是仪表盘\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=fa41c3bfc14586fe\"},{\"title\":\"如何新建页面\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=b3c77505d2456fca\"},{\"title\":\"管理已有页面\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=b3c77505d2456fca\"},{\"title\":\"管理数据资源\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=0b5c9d597cb529fa\"},{\"title\":\"管理推送任务\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=01e41bb4dbd04f65\"},{\"title\":\"管理权限审批\",\"url\":\"https://doc.beacon.woa.com/page/doc?id=6ccf4bc7c0061ab9\"}],\"title\":\"基础功能指引\"}],\"merge\":true,\"position\":{\"bottom\":\"137px\",\"right\":\"7px\"},\"helperGuides\":[{\"icon\":\"shortcut-line\",\"id\":\"shortcut\",\"title\":\"快捷键指南\"}]},\"appLabel\":\"DataTalk\",\"appType\":\"dataAnalyze\",\"sidebar\":{\"appName\":\"DataTalk\",\"quickEntry\":[{\"name\":\"仪表盘\",\"icon\":\"dashboard\",\"sort\":1,\"url\":\"/${biz}/workspace/pageManager\"}],\"sort\":1,\"describe\":\"通用可视化BI\",\"excludesModule\":[\"wuji-source\"]},\"id\":\"datatalk\",\"baseroute\":\"/datatalk\",\"routeComponents\":[{\"component\":\"blank-layout\",\"disabledOlaChat\":true,\"noAuthentication\":true,\"urlMatchReg\":\"(isSCFScreenShot=true|_NOT_LOGIN)\"},{\"component\":\"blank-layout\",\"urlMatchReg\":\"(isFullscreen=true|isShared=true|entrance=){1}.*(isFullscreen=true|isShared=true|entrance=){1}\"},{\"component\":\"blank-layout\",\"urlMatchReg\":\"/pluginMarket/pageTemplate\"},{\"component\":\"micro-layout\",\"navigation\":{\"enableSideBar\":false,\"enableNavigation\":false},\"urlMatchReg\":\"isFullscreen=true\"}]},{\"favicon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/wtfavicon.png?t=0326\",\"mobile\":{\"layout\":\"micro-layout\",\"match\":\".*\"},\"landPageUrl\":\"/${biz}\",\"pluginsConfigList\":[{\"hide\":false,\"jsPath\":\"https://test.beacon.woa.com/ui/dataprep/app/dataprep\",\"code\":\"WeTablePlugin_DataPrep\",\"icon\":\"https://beacon.cdn.qq.com/cos_back/datatalk/prod/user_custom/20250923/5cc99fd8-c48d-4f06-9ee2-cf7578ffc35d.png\",\"name\":\"DataPrep\",\"config\":{\"width\":\"40vw\",\"height\":\"80vh\"},\"desc\":\"DataPrep\"}],\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/table-app/inner/pro/index.html\",\"beAppKey\":\"excelin\",\"userFeedBack\":{\"merge\":false,\"position\":{\"bottom\":\"-150px\",\"right\":\"-10px\"}},\"navigation\":{\"disabledGuideTitle\":true},\"appType\":\"dataAnalyze\",\"sidebar\":{\"appName\":\"Tomoro\",\"sort\":2,\"describe\":\"AI表格式分析\",\"excludesModule\":[\"wuji-source\"],\"beta\":true},\"id\":\"tomoro\",\"baseroute\":\"/tomoro\",\"routeComponents\":[{\"component\":\"blank-layout\",\"disabledOlaChat\":true,\"noAuthentication\":true,\"urlMatchReg\":\"(tomoro\\\\/?)(?:\\\\?[^\\\\s]*)?$\"},{\"component\":\"blank-layout\",\"disabledOlaChat\":true,\"urlMatchReg\":\"\\\\/tomoro\\\\/[^?#]*\\\\?(?=.*[&?]shareToken=)\"}]},{\"beAppKey\":\"beacon_olap\",\"appType\":\"dataAnalyze\",\"sidebar\":{\"appName\":\"DataInsight\",\"quickEntry\":[{\"name\":\"分析\",\"icon\":\"analysis\",\"sort\":2,\"url\":\"/${biz}/Analysis_List\"}],\"sort\":3,\"describe\":\"用户行为分析\",\"excludesModule\":[\"wuji-source\"]},\"mobile\":{\"match\":\".*\"},\"landPageUrl\":\"/${biz}\",\"id\":\"datainsight\",\"baseroute\":\"/datainsight\",\"url\":\"//datainsight-inner.beacon.woa.com/\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"from=(weishi|simple)\"},{\"component\":\"blank-layout\",\"noAuthentication\":true,\"urlMatchReg\":\"/panel_view/|/xingpanPush/\"}],\"disabledGuideTitle\":true},{\"beAppKey\":\"xingpan\",\"appType\":\"dataAnalyze\",\"sidebar\":{\"appName\":\"星盘\",\"sort\":4,\"describe\":\"IPS专用BI\",\"beta\":false},\"mobile\":{\"match\":\".*\"},\"landPageUrl\":\"/${biz}/report/list/team\",\"id\":\"xingpan\",\"baseroute\":\"/xingpan\",\"url\":\"https://xingpan.beacon.woa.com/\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"hideHeader=yes\"}]},{\"mobile\":true,\"landPageUrl\":\"/crowd/create/overview\",\"url\":\"//tx.woa.com/\",\"beAppKey\":\"tx\",\"spaceAuthPageUrl\":\"/spaceManage\",\"userFeedBack\":{\"merge\":false,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://tx.pages.woa.com/\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询天象小秘\",\"url\":\"wxwork://message?uin=8444252947321204\"}]},\"extraStaticConfig\":{\"primaryColor\":\"#0a6cff\",\"txCaller\":\"beacon\",\"routerIndex\":\"/crowd/list\"},\"appType\":\"dataApplication\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"天象\",\"sort\":1,\"describe\":\"用户画像\"},\"id\":\"tx\",\"entryRefresh\":true,\"baseroute\":\"/tx\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"hideHeader=yes\"}]},{\"beAppKey\":\"cdp\",\"navigation\":{\"headerLogo\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/header-logo-data-aud.png\"},\"appType\":\"dataAnalyze\",\"sidebar\":{\"hide\":true,\"appName\":\"DataAudience\",\"quickEntry\":[{\"name\":\"人群包\",\"icon\":\"crowd\",\"sort\":3,\"url\":\"/${biz}/crowdList\"}],\"sort\":6,\"describe\":\"画像洞察\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/${biz}\",\"id\":\"dataaudience\",\"baseroute\":\"/dataaudience\",\"url\":\"//dataaudience-inner.beacon.woa.com/\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"hideHeader=yes\"}]},{\"mobile\":false,\"landPageUrl\":\"/${biz}\",\"url\":\"//tdag.woa.com/fe_tdag\",\"beAppKey\":\"tdag\",\"spaceAuthPageUrl\":\"/spaceManage\",\"userFeedBack\":{\"merge\":false,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://tx.pages.woa.com/\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询天象小秘\",\"url\":\"wxwork://message?uin=8444252947321204\"}]},\"extraStaticConfig\":{\"primaryColor\":\"#0a6cff\",\"txCaller\":\"beacon\",\"routerIndex\":\"/crowd/list\"},\"appType\":\"dataApplication\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"tDAG\",\"sort\":5,\"describe\":\"tDAG\"},\"id\":\"tdag\",\"iframe\":true,\"entryRefresh\":true,\"baseroute\":\"/tdag\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"hideHeader=yes\"}]},{\"beAppKey\":\"tab\",\"userFeedBack\":{\"merge\":false,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://iwiki.woa.com/space/tab\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询TAB小秘\",\"url\":\"wxwork://message?uin=8444250763321484\"}]},\"appType\":\"dataScience\",\"sidebar\":{\"appName\":\"TAB实验平台\",\"quickEntry\":[{\"name\":\"实验\",\"icon\":\"test\",\"sort\":5,\"url\":\"/experiment/list?business=${biz}\"}],\"sort\":1,\"describe\":\"AB实验决策\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/?business=${biz}&appGroup=abtest\",\"id\":\"tab\",\"sidebarList\":[{\"activePattern\":\"^/tab/.*/.*\\\\?appGroup=abtest(&|$)\",\"name\":\"TAB实验平台\",\"landPageUrl\":\"/?business=${biz}&appGroup=abtest\",\"id\":\"tab-abtest\",\"sort\":1,\"describe\":\"AB实验决策\"},{\"activePattern\":\"^/tab/.*/.*\\\\?appGroup=causal(&|$)\",\"name\":\"TAB因果推断\",\"landPageUrl\":\"/?business=${biz}&appGroup=causal\",\"id\":\"tab-causal\",\"sort\":2,\"describe\":\"探索因果效应\"},{\"activePattern\":\"^/tab/.*/.*\\\\?appGroup=config(&|$)\",\"name\":\"TAB云控配置\",\"landPageUrl\":\"/?business=${biz}&appGroup=config\",\"id\":\"tab-config\",\"sort\":3,\"describe\":\"配置与开关\"}],\"entryRefresh\":true,\"baseroute\":\"/tab\",\"rightSidebar\":{\"menuList\":[{\"icon\":\"help-circle\",\"id\":\"user-helper\",\"tooltipContent\":\"用户反馈\",\"type\":\"common\",\"order\":1}],\"enableSideBar\":true},\"url\":\"//tab.woa.com/\"},{\"headerLogo\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-logo.svg?1=1\",\"mobile\":false,\"landPageUrl\":\"/datong-import?&workbenchId=${biz}\",\"url\":\"//olafe.woa.com/olab\",\"beAppKey\":\"olab\",\"appType\":\"dataProductionLine\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"hide\":true,\"appName\":\"大同接入\",\"sort\":1,\"describe\":\"模板加工\",\"beta\":false},\"merge\":false,\"subAppVersionsConfig\":{\"appVersion\":\"标准版\",\"versionsList\":[{\"beAppKey\":\"olab\",\"code\":\"OLA_PAGE_VERSION\",\"icon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-logo.svg?1=1\",\"name\":\"(标准版)\",\"appKey\":\"ola-lab\",\"id\":\"olab\",\"describe\":\"大同接入\"},{\"rememberLastChoice\":true,\"beAppKey\":\"datahub3_team\",\"code\":\"OLA_PAGE_VERSION\",\"icon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-lite-logo.svg\",\"name\":\"(轻量版)\",\"appKey\":\"ola-lab\",\"id\":\"datahub\",\"describe\":\"原DataMesh\"}],\"enable\":true},\"id\":\"olab\",\"iframe\":true,\"entryRefresh\":true,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://ola.pages.woa.com/OL/N1.html\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询OLA小秘\",\"url\":\"wxwork://message?uin=8444249466319781\"}],\"baseroute\":\"/olab\"},{\"code\":\"OLA_PAGE_VERSION\",\"mobile\":false,\"landPageUrl\":\"/#/olab/develop?bizId=${business}&workbenchId=${biz}\",\"url\":\"//olafe.woa.com/\",\"beAppKey\":\"ola-lab\",\"navigation\":{\"logoHeight\":\"32px\",\"headerLogo\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-logo-1.svg\"},\"appType\":\"devGovernance\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"欧拉资产工场\",\"sort\":1,\"describe\":\"数据建模\",\"beta\":false},\"subAppVersionsConfig\":{\"appVersion\":\"标准版\",\"versionsList\":[{\"rememberLastChoice\":true,\"beAppKey\":\"ola-lab\",\"code\":\"OLA_PAGE_VERSION\",\"icon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-logo-1.svg\",\"name\":\"(标准版)\",\"appKey\":\"ola-lab\",\"id\":\"ola-lab\",\"describe\":\"原资产工场，支持专业的数据仓库建模需求\"},{\"rememberLastChoice\":true,\"beAppKey\":\"datahub3_team\",\"code\":\"OLA_PAGE_VERSION\",\"icon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-lite-logo-1.svg\",\"name\":\"(轻量版)\",\"appKey\":\"ola-lab\",\"id\":\"datahub\",\"describe\":\"原DataMesh，满足轻量级数据开发应用场景\"}],\"enable\":true},\"id\":\"ola-lab\",\"sidebarList\":[{\"activePattern\":\"(?!.*workshop\\\\/business).*(?!.*quality\\\\/quality-overview).*(ola-lab).*\",\"name\":\"业务数仓管家-标准版\",\"landPageUrl\":\"/#/olab/develop?bizId=${business}&workbenchId=${biz}\",\"id\":\"ola-lab\",\"sort\":1,\"describe\":\"原资产工场\",\"isMergeApp\":true}],\"entryRefresh\":true,\"baseroute\":\"/ola-lab\"},{\"beAppKey\":\"ola-govern\",\"userFeedBack\":{\"merge\":false,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://ola.pages.woa.com/OL/N1.html\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询OLA小秘\",\"url\":\"wxwork://message?uin=8444249466319781\"}]},\"appType\":\"devGovernance\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"欧拉治理引擎\",\"sort\":3,\"describe\":\"数据治理\",\"beta\":false},\"mobile\":false,\"landPageUrl\":\"/\",\"id\":\"ola-govern\",\"entryRefresh\":true,\"baseroute\":\"/ola-govern\",\"url\":\"//olafe.woa.com/govern/\"},{\"beAppKey\":\"ola-quality\",\"userFeedBack\":{\"merge\":false,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://ola.pages.woa.com/OL/N1.html\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询OLA小秘\",\"url\":\"wxwork://message?uin=8444249466319781\"}]},\"appType\":\"devGovernance\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"欧拉质量引擎\",\"sort\":2,\"describe\":\"数据质量\",\"beta\":false},\"mobile\":false,\"landPageUrl\":\"/quality/data-quality/quality-overview?workbenchId=${biz}&bizId=${business}\",\"id\":\"ola-quality\",\"iframe\":true,\"entryRefresh\":true,\"baseroute\":\"/ola-quality\",\"url\":\"//olafe.woa.com/quality/\"},{\"beAppKey\":\"ola-discover\",\"appType\":\"devGovernance\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"数据地图\",\"sort\":4,\"describe\":\"数据探索\",\"beta\":false},\"merge\":false,\"mobile\":false,\"landPageUrl\":\"/#/data-market-i\",\"id\":\"ola-discover\",\"sidebarList\":[{\"activePattern\":\"(?!.*ola-ide-i\\\\/insight).*ola-discover.*\",\"name\":\"欧拉数据发现\",\"landPageUrl\":\"/#/data-market-i\",\"id\":\"ola-discover\",\"sort\":1,\"describe\":\"数据探索\"}],\"entryRefresh\":true,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://ola.pages.woa.com/OL/N1.html\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询OLA小秘\",\"url\":\"wxwork://message?uin=8444249466319781\"}],\"baseroute\":\"/ola-discover\",\"url\":\"//olafe.woa.com/discover/\"},{\"mobile\":false,\"landPageUrl\":\"/sql\",\"url\":\"//olasql.woa.com/\",\"beAppKey\":\"olasql\",\"extraStaticConfig\":{\"olasqlCaller\":\"beacon\",\"routerIndex\":\"/sql\"},\"appType\":\"devGovernance\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"OlaSQL\",\"sort\":4,\"describe\":\"AI SQL查询\",\"beta\":false},\"merge\":false,\"id\":\"olasql\",\"iframe\":true,\"entryRefresh\":true,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://ola.pages.woa.com/OL/N1.html\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询OLA小秘\",\"url\":\"wxwork://message?uin=8444249466319781\"}],\"baseroute\":\"/olasql\"},{\"beAppKey\":\"data_link\",\"appType\":\"otherApp\",\"sidebar\":{\"appName\":\"DataLink\",\"quickEntry\":[{\"name\":\"工作流\",\"icon\":\"workflow\",\"sort\":5,\"url\":\"/${biz}/list\"}],\"sort\":8,\"describe\":\"自动化工作流\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/${biz}/list\",\"id\":\"datalink\",\"baseroute\":\"/datalink\",\"rightSidebar\":{\"enableSideBar\":true},\"url\":\"//datalink-inner.beacon.woa.com/\"},{\"beAppKey\":\"venus\",\"appType\":\"otherApp\",\"sidebar\":{\"appName\":\"VenusCode\",\"sort\":4,\"describe\":\"Notebook\",\"excludesModule\":[\"wuji-source\",\"datamanager\",\"push\",\"monitor\",\"datareporting\"]},\"landPageUrl\":\"/\",\"id\":\"venus\",\"baseroute\":\"/venus\",\"url\":\"//testjupiter.woa.com/frontend_static/beacon20221027_eed680c7/coding.html?sub_page_version=1658974703000\"},{\"beAppKey\":\"wuji\",\"appType\":\"otherApp\",\"sidebar\":{\"appName\":\"无极\",\"sort\":5,\"describe\":\"低代码平台\",\"excludesModule\":[\"datamanager\",\"push\",\"monitor\",\"datareporting\"]},\"landPageUrl\":\"/xy\",\"id\":\"wuji\",\"baseroute\":\"/wuji\",\"url\":\"//wujibeacon.woa.com/xy\"},{\"beAppKey\":\"fabric\",\"appType\":\"dataAnalyze\",\"sidebar\":{\"hide\":true,\"appName\":\"Fabric\",\"sort\":11,\"describe\":\"AI分析笔记\",\"excludesModule\":[\"datamanager\",\"push\",\"monitor\"]},\"landPageUrl\":\"/${biz}\",\"id\":\"fabric\",\"baseroute\":\"/fabric\",\"url\":\"//fabric.woa.com/\"},{\"beAppKey\":\"datong\",\"spaceAuthPageUrl\":\"/#/setup\",\"userFeedBack\":{\"merge\":false,\"helperGuides\":[{\"icon\":\"doubt-filled\",\"title\":\"帮助文档\",\"url\":\"https://datong.woa.com/doc/\"},{\"icon\":\"wecom-fill-color\",\"title\":\"咨询大同小秘\",\"url\":\"wxwork://message?username=DATONG\"}]},\"appType\":\"devGovernance\",\"sidebar\":{\"appSwitchStrategy\":\"sameBiz\",\"appName\":\"大同\",\"sort\":5,\"describe\":\"埋点上报\",\"beta\":false},\"mobile\":false,\"landPageUrl\":\"/#/home\",\"id\":\"datong\",\"secondLandPageUrl\":\"/#/d/trackingMap/search?appId=${app}\",\"baseroute\":\"/datong\",\"url\":\"//datong.woa.com\"},{\"beAppKey\":\"tdebug\",\"navigation\":{\"headerLogo\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/tdebug-header-logo.png?key=1\"},\"appType\":\"dataApplication\",\"sidebar\":{\"appName\":\"tdebug\",\"sort\":5,\"describe\":\"一站式诊断平台\",\"excludesModule\":[\"datamanager\",\"push\",\"monitor\",\"datareportin\"],\"beta\":false},\"landPageUrl\":\"/\",\"id\":\"tdebug\",\"iframe\":true,\"baseroute\":\"/tdebug\",\"rightSidebar\":{\"menuList\":[{\"icon\":\"help-circle\",\"id\":\"user-helper\",\"tooltipContent\":\"用户反馈\",\"type\":\"common\",\"order\":1}],\"enableSideBar\":true},\"url\":\"//tdebug.woa.com/\"},{\"beAppKey\":\"mix_query\",\"appType\":\"otherApp\",\"sidebar\":{\"appName\":\"MixQuery\",\"sort\":3,\"describe\":\"融合查询引擎\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/${biz}\",\"id\":\"mixquery\",\"baseroute\":\"/mixquery\",\"rightSidebar\":{\"enableSideBar\":true},\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/mixquery/pro/index.html\"},{\"beAppKey\":\"datahub3_team\",\"navigation\":{\"logoHeight\":\"32px\",\"headerLogo\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-lite-logo-1.svg\"},\"appType\":\"devGovernance\",\"sidebar\":{\"appName\":\"业务数仓管家-轻量版\",\"sort\":6,\"describe\":\"原DataMesh\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/team/${team}/zone/${biz}/chain/list\",\"subAppVersionsConfig\":{\"appVersion\":\"轻量版\",\"versionsList\":[{\"beAppKey\":\"ola-lab\",\"rememberLastChoice\":true,\"code\":\"OLA_PAGE_VERSION\",\"icon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-logo-1.svg\",\"name\":\"(标准版)\",\"appKey\":\"ola-lab\",\"id\":\"ola-lab\",\"describe\":\"原资产工场，支持专业的数据仓库建模需求\"},{\"rememberLastChoice\":true,\"beAppKey\":\"datahub3_team\",\"code\":\"OLA_PAGE_VERSION\",\"icon\":\"https://beacon.cdn.qq.com/beacon_data_suite/static/images/business-data-warehouse-manager-lite-logo-1.svg\",\"name\":\"(轻量版)\",\"appKey\":\"ola-lab\",\"id\":\"datahub\",\"describe\":\"原DataMesh，满足轻量级数据开发应用场景\"}],\"enable\":true},\"id\":\"datahub\",\"baseroute\":\"/datahub\",\"url\":\"//datamesh.woa.com/index\"},{\"beAppKey\":\"metacat\",\"appType\":\"commonApp\",\"sidebar\":{\"hide\":true,\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/\",\"id\":\"dataassets\",\"baseroute\":\"/dataassets\",\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/metacat/pro/index.html\"},{\"beAppKey\":\"data_reporting\",\"appType\":\"module\",\"sidebar\":{\"appSwitchStrategy\":\"recentBiz\",\"hide\":true,\"appName\":\"数据上报\",\"icon\":\"data-report\",\"sort\":1,\"describe\":\"数据上报\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/${biz}\",\"id\":\"datareporting\",\"baseroute\":\"/datareporting\",\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/data-reporting/pro/index.html\",\"routeComponents\":[{\"component\":\"micro-layout\",\"navigation\":{\"enableSideBar\":false},\"urlMatchReg\":\"inDTFrame\"}]},{\"beAppKey\":\"data_manager\",\"appLabel\":\"数据管家\",\"appType\":\"module\",\"sidebar\":{\"appName\":\"数据管家\",\"icon\":\"datasteward\",\"quickEntry\":[{\"name\":\"数据连接\",\"icon\":\"datasource\",\"sort\":1,\"url\":\"/${biz}/data-source/list\"},{\"name\":\"数据集\",\"icon\":\"dataresource\",\"sort\":2,\"url\":\"/${biz}/list\"}],\"sort\":1,\"describe\":\"数据源管理\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/${biz}\",\"id\":\"datamanager\",\"baseroute\":\"/datamanager\",\"rightSidebar\":{\"menuList\":[{\"svg\":true,\"icon\":\"ola-chat\",\"id\":\"ola-chat\",\"tooltipContent\":\"OlaChat\",\"type\":\"custom\",\"order\":111}],\"enableSideBar\":true},\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/data-manager/pro/index.html\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"isIframe=true\"}]},{\"beAppKey\":\"monitor\",\"appType\":\"module\",\"sidebar\":{\"appName\":\"监控告警\",\"icon\":\"Monitoring\",\"sort\":3,\"describe\":\"统一监控\",\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/${biz}\",\"id\":\"monitor\",\"baseroute\":\"/monitor\",\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/monitor-app/pro/index.html\"},{\"beAppKey\":\"console\",\"appLabel\":\"腾讯灯塔\",\"appType\":\"console\",\"sidebar\":{\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/\",\"id\":\"console\",\"baseroute\":\"/console\",\"rightSidebar\":{\"menuList\":[{\"svg\":true,\"icon\":\"ola-chat\",\"id\":\"ola-chat\",\"tooltipContent\":\"OlaChat\",\"type\":\"custom\",\"order\":111}],\"enableSideBar\":true},\"url\":\"https://beacon.cdn.qq.com/beacon_data_suite/console-app/pro/index.html?refresh=true\"},{\"beAppKey\":\"data_auth\",\"navigation\":{\"enableSideBar\":false},\"appType\":\"dataauth\",\"sidebar\":{\"excludesModule\":[\"wuji-source\"]},\"landPageUrl\":\"/authority/${biz}/authRoleGroup/${project}\",\"id\":\"dataauth\",\"baseroute\":\"/dataauth\",\"url\":\"//dataauth-inner.beacon.woa.com/\",\"routeComponents\":[{\"component\":\"blank-layout\",\"urlMatchReg\":\"isIframe=true\"}]},{\"agentSkillPackageUrl\":\"https://beacon-skill-1258344701.cos.ap-guangzhou.myqcloud.com/skills/beacon-drive-skill/beacon-drive-skill-0.3.0.zip\",\"mobile\":{\"match\":\".*\"},\"treeProductFilter\":{\"enabledAllSpace\":false,\"blackListSpace\":[\"zuhuang_test\"]},\"apiAlias\":\"drive\",\"landPageUrl\":\"/${biz}\",\"microAppOpts\":{\"matchNoHanldeUrls\":[\"apikey.map.qq.com/mkey/index.php/mkey/check\",\"confinfo.map.qq.com/confinfo\"]},\"preload\":false,\"url\":\"//beacondrive.woa.com/\",\"beAppKey\":\"beacon_drive\",\"navigation\":{\"headerLogo\":\"https://beacon.cdn.qq.com/cos_back/datatalk/prod/user_custom/20260714/27787cc2-01c3-4cc9-a690-57de0d90f9bf.png\"},\"appLabel\":\"BeaconDrive\",\"appType\":\"dataSharing\",\"sidebar\":{\"appName\":\"灯塔AI云盘\",\"sort\":1,\"describe\":\"一键共享 AI 产物\",\"excludesModule\":[\"wuji-source\"]},\"spaceDisplayConfig\":{\"enabledAllSpace\":true,\"blackListSpace\":[\"yuanbao\"]},\"id\":\"beacondrive\",\"iframe\":true,\"baseroute\":\"/beacondrive\",\"routeComponents\":[{\"component\":\"micro-layout\",\"navigation\":{\"enableSideBar\":false,\"enableNavigation\":false},\"urlMatchReg\":\"isFullscreen=true\"},{\"component\":\"blank-layout\",\"urlMatchReg\":\"(isShared=true|entrance=)\"},{\"component\":\"blank-layout\",\"disabledOlaChat\":true,\"noAuthentication\":true,\"urlMatchReg\":\"_NOT_LOGIN\"}]}]}"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_sending_event_ids",
+          "value": "[]"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_logid_start",
+          "value": "1784263432391"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_beacon_config",
+          "value": ""
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_last_report_time",
+          "value": "1784861471015"
+        },
+        {
+          "name": "BEACON_BASE_SIDEBAR_SWITCH_COMMON",
+          "value": "true"
+        },
+        {
+          "name": "DT_LAST_ENTER_TIME",
+          "value": "2026-07-17T12:43:55+08:00"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_beacon_config_request_time",
+          "value": "1784263435549"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_last_report_time",
+          "value": "1784263435549"
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_logid_start",
+          "value": "1784263432442"
+        },
+        {
+          "name": "BEACON_BASE_SIDEBAR_SWITCH_ISFIXED_WEBTABLE",
+          "value": "false"
+        },
+        {
+          "name": "__BDS_LAST_APP_NAME__",
+          "value": "datatalk"
+        },
+        {
+          "name": "BEACON_BASE_SIDEBAR_CLOSE_IS_FIRST",
+          "value": "true"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_is_new_user",
+          "value": "false"
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_session_storage_key",
+          "value": "{\"sessionId\":\"0WEB05AB9V50GQFW_1784861471005\",\"sessionStart\":1784861471005}"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_sending_event_ids",
+          "value": "[]"
+        },
+        {
+          "name": "BEACON_BASE_SIDEBAR_SWITCH_ISFIXED_COMMON",
+          "value": "false"
+        },
+        {
+          "name": "__BEACON_0WEB05AB9V50GQFW_sending_event_ids",
+          "value": "[]"
+        },
+        {
+          "name": "BEACON_BASE_SIDEBAR_SWITCH_WEBTABLE",
+          "value": "true"
+        },
+        {
+          "name": "__BEACON_0WEB06JCXF4KE5DZ_4.5.3-web_direct_log_id",
+          "value": "3"
+        },
+        {
+          "name": "dt_task_lock_queue_JS0RDUHE2V65QO",
+          "value": "[{\"id\":\"bcffa92\",\"time\":1784263435729}]"
+        },
+        {
+          "name": "__BEACON_JS0RDUHE2V65QO_4.6.0-web_direct_log_id",
+          "value": "7"
+        },
+        {
+          "name": "__USER_GUIDE_STORAGE__",
+          "value": "{}"
+        }
+      ]
+    },
+    {
+      "origin": "https://std.passport.woa.com",
+      "localStorage": [
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "AEGIS_ID",
+          "value": "0c8c456c-323d-44a6-a062-76e2dc8ae725"
+        }
+      ]
+    }
+  ]
+}
