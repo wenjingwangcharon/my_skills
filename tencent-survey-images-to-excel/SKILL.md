@@ -3,7 +3,7 @@ name: tencent-survey-images-to-excel
 description: Turn Tencent Survey (腾讯问卷/wj.qq.com) raw exported data into a clean, review-ready Excel where uploaded images are embedded as visible thumbnails, useless columns are removed, and (optionally) each submission's published content is fetched from its link and scored. Use when a user gives survey-exported CSV/data and wants a tidy table like 运营活动-投稿数据(含图片).xlsx. Two stages: (1) clean fields + embed images, (2) visit each content link and append content-quality / case-representativeness scoring columns. Key insight: CSV image download links (=Hyperlink to wj.qq.com/api/files/download) require login; use the tencent-survey MCP list_answers tool to get signed COS direct URLs that download without auth.
 description_zh: 问卷原始数据整理成含图片+评分的Excel
 description_en: Survey raw data to images+scoring Excel
-disable: true
+disable: false
 agent_created: true
 ---
 

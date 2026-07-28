@@ -1,6 +1,6 @@
 ---
 agent_created: true
-disable: true
+disable: false
 ---
 
 # 活动算力数据处理

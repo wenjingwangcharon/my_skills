@@ -3,7 +3,7 @@ name: morning-market-scan
 description: 每日晨间市场信息扫描与整理。搜集隔夜外盘指数、A50期货、关键商品价格、汇率利率、国内要闻、重要公告等信息，按模板整理成结构化报告，给出市场基调预判和操作建议。当用户说"晨间扫描"、"早报"、"市场扫描"、"隔夜信息"、"今日市场"等关键词时触发，也适用于每日定时自动化执行。
 description_zh: 晨间市场扫描
 description_en: Morning market scan
-disable: true
+disable: false
 agent_created: true
 ---
 

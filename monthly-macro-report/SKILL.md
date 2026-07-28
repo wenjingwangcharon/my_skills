@@ -3,7 +3,7 @@ name: monthly-macro-report
 description: 每月宏观经济分析报告。系统搜集中国宏观经济数据（GDP/CPI/PMI/社融/工业/消费/投资/出口）、货币与财政政策动向、重点产业政策、全球经济环境，综合判断当前经济周期位置，推导利好/回避的股票板块，生成结构化分析报告。当用户说"月度宏观"、"宏观报告"、"经济分析"、"每月宏观"、"宏观经济分析"等关键词时触发，也适用于每月定时自动化执行。
 description_zh: 月度宏观报告
 description_en: Monthly macro report
-disable: true
+disable: false
 agent_created: true
 ---
 

@@ -53,11 +53,9 @@
 
 ---
 
-## 二、其他 skills（共 7 个，其中 4 个已停用）
+## 二、其他 skills（共 7 个）
 
-> 标〔已停用〕的，其 `SKILL.md` 内含 `disable: true`，导入后默认不生效；需要时在文件里改为 `false` 即可。
-
-### 10. activity-data-processor 〔已停用〕 — 活动算力数据处理
+### 10. activity-data-processor — 活动算力数据处理
 - 把 ima 算力活动底表转换为周报 Excel（双 sheet），支持每周追加。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/activity-data-processor
 
@@ -65,11 +63,11 @@
 - 自动化从腾讯灯塔平台取数，支持页面抓取 / 下载导出两种模式、TV / 敏捷分析两种页面类型。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/beacon-data-fetcher
 
-### 12. monthly-macro-report 〔已停用〕 — 月度宏观经济分析报告
+### 12. monthly-macro-report — 月度宏观经济分析报告
 - 搜集中国宏观数据（GDP / CPI / PMI / 社融等）、财政货币政策、产业政策、全球经济，判断经济周期位置，推导利好 / 回避板块。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/monthly-macro-report
 
-### 13. morning-market-scan 〔已停用〕 — 每日晨间市场扫描
+### 13. morning-market-scan — 每日晨间市场扫描
 - 搜集隔夜外盘、A50、商品、汇率利率、国内要闻 / 公告，整理成结构化报告并给市场基调预判与操作建议。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/morning-market-scan
 
@@ -81,7 +79,7 @@
 - 把数据表渲染成图表，固化该用户的视觉 / 协作偏好（三色配色、极简、柱高精确等），用 show_widget 内联渲染。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/table-to-chart
 
-### 16. tencent-survey-images-to-excel 〔已停用〕 — 腾讯问卷数据整理
+### 16. tencent-survey-images-to-excel — 腾讯问卷数据整理
 - 把问卷导出原始数据清洗为含内嵌图片的成品 Excel，可选访问内容链接打分。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/tencent-survey-images-to-excel
 
@@ -89,4 +87,3 @@
 
 ## 备注
 - 部分 skill 依赖外部账号 / API（QQ 邮箱、飞书、小红书 cookie、腾讯灯塔、腾讯问卷等），对方需自行配置。
-- `disable: true` 的 skill 只是暂时关闭，不影响其余 skill 使用。
