@@ -1,0 +1,7 @@
+{
+  "AI_NEWS_LLM_BASE": "https://api.openai.com/v1",
+  "AI_NEWS_LLM_KEY": "sk-你的APIKey",
+  "AI_NEWS_LLM_MODEL": "gpt-4o-mini",
+  "AI_NEWS_GH_REMOTE": "https://github.com/你的用户名/你的仓库.git",
+  "AI_NEWS_OUTPUT": "产物根目录绝对路径，其下自动创建 data/ 与 site/；不填则默认 <skill>/output"
+}

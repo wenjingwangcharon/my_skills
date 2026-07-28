@@ -1,0 +1,4 @@
+{
+  "_comment": "把你的小红书登录 Cookie 整串粘进来，例如：abRequestId=xxx; a1=xxx; web_session=xxx; id_token=xxx; ... 也可以直接是 'k=v; k2=v2' 的原始字符串（包在引号里），或 JSON 数组 [{\"name\":\"a1\",\"value\":\"...\"}]。",
+  "_raw_cookie_string": "abRequestId=...; a1=...; webId=...; gid=...; xsecappid=xhs-pc-web; web_session=...; id_token=...; ..."
+}
