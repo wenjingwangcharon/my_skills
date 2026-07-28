@@ -1,1 +1,30 @@
+# OS
 .DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Secrets / local config (keep *.example.* committed)
+.env
+.env.*
+*.local
+credentials.json
+*.secret
+
+# Logs
+*.log
+
+# Editors
+.idea/
+.vscode/
