@@ -10,6 +10,8 @@ agent_created: true
 
 皮肤 = `theme/skin.css` + `theme/*.png` → `npx asar pack` 打包 → 注入 app.asar → Cmd+Q 重启生效。
 
+📦 **参考皮肤**：建议用户同时下载完整示例仓库对照 —— https://github.com/wenjingwangcharon/workbuddy-chiikawa-theme （含 CSS + 贴图 + 音效 JS + 安装脚本的完整实现）。`references/skin-anatomy.md` 有 DOM 结构详解。
+
 ## 总流程（按顺序执行）
 
 1. **需求理解** → 2. **配色方案** → 3. **贴图/装饰** → 4. **音效（可选）** → 5. **安装 & 验证**
@@ -184,12 +186,64 @@ cropped.resize((w, h), Image.LANCZOS).save("output.png")
 
 ⚠️ 告诉用户：音效不是必须的，这一步可以跳过。除非用户明确想要自定义音效。
 
-如果需要音效：
-- 格式：.wav / .mp3
-- 路径：与 skin.css 同目录，CSS 中用 `url()` 引用
-- 需确认消息提示音、发送音等具体场景
-
 **在提示用户可跳过之后，直接问："要跳过音效这一步吗？还是想加？"**
+
+### 4.1 如果用户要做音效
+
+先确认触发事件（最多 3-4 个）：
+| 事件 | 触发时机 | 可行性 |
+|------|----------|--------|
+| 任务完成 | AgentCard working → completed | ✅ |
+| AI 追问 | 出现 ask-user-question 弹窗 | ✅ |
+| 任务失败 | AgentCard working → failed | ✅ |
+| App 启动 | 页面加载后 | ❌ 浏览器 Autoplay 策略拦截，需用户交互后才能播 |
+
+**不要承诺启动音效**——即使代码挂了首次点击播放，用户体验也不好（开 App 要点一下才响，不如不要）。
+
+### 4.2 素材要求
+
+告知用户：
+- 每个音效 **0.5-3 秒**短促音效（不是背景音乐）
+- 可以是手机录的 m4a、网上下载的 mp3 等，我来转格式
+- 每个事件需要一个独立的音频文件
+
+### 4.3 音频转换
+
+拿到用户素材后，转成标准 WAV：
+
+```bash
+ffmpeg -y -i "input.mp3" -vn -map 0:a:0 -acodec pcm_s16le -ar 22050 -ac 1 "output.wav"
+```
+
+⚠️ **关键参数解释（翻车教训）：**
+- `-vn` + `-map 0:a:0`：**必须加**。网易云等来源的 MP3 内嵌专辑封面（mjpeg stream），不加的话图片数据会混入 WAV 音频流，播放出来是刺耳噪音
+- `-ar 22050`：Electron 的 Audio API 对这个采样率支持最好（不要用 44100）
+- `-ac 1`：单声道，文件更小
+
+### 4.4 注入 JS
+
+音效不能在 CSS 里做，需要写独立的 JS 文件（如 `skin-audio.js`），注入方式同 CSS。
+
+核心架构：
+```js
+// 用 MutationObserver + 定时扫描监听 AgentCard 状态变化
+// new Audio("./assets/xxx.wav") 加载文件
+// 状态从 working → completed 时 play()
+```
+
+**不需要用户理解这段代码**，你根据用户的音效需求直接写好。
+
+### 4.5 音量控制
+
+JS 中暴露全局对象让用户调音量：
+```js
+window.__SKIN_AUDIO__ = {
+  setEnabled: fn,   // 开关音效
+  setVolume: fn     // 0~1 音量
+}
+```
+
+⚠️ **停止当前音频函数必须包含所有 Audio 对象**——如果某个对象不在 stopAll 数组里但正在播放，会和其他音效叠加。
 
 ---
 
@@ -234,6 +288,8 @@ bash ~/.workbuddy/skills/workbuddy-skin-maker/scripts/install.sh <theme-project-
 | 贴图被输入框压住 | z-index 不够或用了 topRightSlotStandalone（z-index:0） | 换成 `::after` + `z-index: 50` |
 | 人物白色部分被抠掉了（脸/衣服消失） | 用了 PIL flood fill | 换 rembg 重新抠图 |
 | 图片位置偏移 | 原始尺寸和 CSS width/height 不匹配 | 按原图比例重新计算 width/height，top = -height |
+| 音效播放为刺耳噪音 | MP3 内嵌专辑封面混入 WAV 流 | 重转：`ffmpeg -vn -map 0:a:0`，确保 WAV 只有 1 条音频流 |
+| 音效完全不响 | Autoplay 策略拦截 或 未重启 App | 启动音效放弃（无解）；其他音效检查是否 Cmd+Q 重启了 |
 
 ---
 
