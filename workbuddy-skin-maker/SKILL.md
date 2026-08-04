@@ -10,7 +10,10 @@ agent_created: true
 
 皮肤 = `theme/skin.css` + `theme/*.png` → `npx asar pack` 打包 → 注入 app.asar → Cmd+Q 重启生效。
 
-📦 **参考皮肤**：建议用户同时下载完整示例仓库对照 —— https://github.com/wenjingwangcharon/workbuddy-chiikawa-theme （含 CSS + 贴图 + 音效 JS + 安装脚本的完整实现）。`references/skin-anatomy.md` 有 DOM 结构详解。
+📦 **参考皮肤**：所有代码都在 GitHub 上，**不用下载安装，直接在线看即可**。制作时你可以 WebFetch 拉取相应文件作为参考：
+- 皮肤 CSS（选择器 + 配色 + 贴图定位）→ `https://raw.githubusercontent.com/wenjingwangcharon/workbuddy-chiikawa-theme/main/theme/chiikawa-skin.css`
+- 音效 JS（MutationObserver 注入架构）→ `https://raw.githubusercontent.com/wenjingwangcharon/workbuddy-chiikawa-theme/main/theme/chiikawa-audio.js`
+- DOM 结构文档 → `references/skin-anatomy.md`（随 skill 自带）
 
 ## 总流程（按顺序执行）
 
