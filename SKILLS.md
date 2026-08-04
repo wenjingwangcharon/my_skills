@@ -13,7 +13,7 @@
 
 ---
 
-## 一、原创 skills（agent_created，共 9 个）
+## 一、原创 skills（agent_created，共 10 个）
 
 ### 1. ai-news-weekly — AI 科技商业新闻日报
 - 采集新智元 / 36氪 / 量子位 / APPSO 等多信源最新 AI 新闻 → 结构化日报 markdown → 渲染为自包含交互网页，支持 GitHub Pages 自动部署与每日定时更新。
@@ -51,35 +51,39 @@
 - 给定笔记链接，提取标题 / 正文 / 图片 / 标签，识别图中文字，整合为结构化 Markdown。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/xiaohongshu-note-organizer
 
+### 10. workbuddy-skin-maker — WorkBuddy 皮肤制作向导
+- 交互式引导用户完成皮肤制作：配色提取 → 贴图抠图定位 → 音效（可选跳过）→ 打包安装。内置所有翻车红线（overflow 裁剪、::after 挤 icon、PIL 吃白脸等），每步确认不跳步。
+- 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/workbuddy-skin-maker
+
 ---
 
 ## 二、其他 skills（共 7 个）
 
-### 10. activity-data-processor — 活动算力数据处理
+### 11. activity-data-processor — 活动算力数据处理
 - 把 ima 算力活动底表转换为周报 Excel（双 sheet），支持每周追加。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/activity-data-processor
 
-### 11. beacon-data-fetcher — 灯塔(Beacon) DataInsight 数据获取
+### 12. beacon-data-fetcher — 灯塔(Beacon) DataInsight 数据获取
 - 自动化从腾讯灯塔平台取数，支持页面抓取 / 下载导出两种模式、TV / 敏捷分析两种页面类型。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/beacon-data-fetcher
 
-### 12. monthly-macro-report — 月度宏观经济分析报告
+### 13. monthly-macro-report — 月度宏观经济分析报告
 - 搜集中国宏观数据（GDP / CPI / PMI / 社融等）、财政货币政策、产业政策、全球经济，判断经济周期位置，推导利好 / 回避板块。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/monthly-macro-report
 
-### 13. morning-market-scan — 每日晨间市场扫描
+### 14. morning-market-scan — 每日晨间市场扫描
 - 搜集隔夜外盘、A50、商品、汇率利率、国内要闻 / 公告，整理成结构化报告并给市场基调预判与操作建议。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/morning-market-scan
 
-### 14. suanli-weekly — 算力周报
+### 15. suanli-weekly — 算力周报
 - 算力底表处理 + 饼图、算力券周报（仪表盘 API + SQL）、活动算力周报 SQL 三个子任务。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/suanli-weekly
 
-### 15. table-to-chart — 表格生成图表偏好
+### 16. table-to-chart — 表格生成图表偏好
 - 把数据表渲染成图表，固化该用户的视觉 / 协作偏好（三色配色、极简、柱高精确等），用 show_widget 内联渲染。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/table-to-chart
 
-### 16. tencent-survey-images-to-excel — 腾讯问卷数据整理
+### 17. tencent-survey-images-to-excel — 腾讯问卷数据整理
 - 把问卷导出原始数据清洗为含内嵌图片的成品 Excel，可选访问内容链接打分。
 - 链接：https://github.com/wenjingwangcharon/my_skills/tree/main/tencent-survey-images-to-excel
 

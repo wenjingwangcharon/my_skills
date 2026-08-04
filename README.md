@@ -20,6 +20,7 @@ Charon's original WorkBuddy skills.
 | `investment-tracker` | 投资追踪与宏观研究（七层国家分析框架工作台） |
 | `job-application-tracker` | 面试投递追踪（JSON 结构化存储、模糊匹配、状态管理） |
 | `wordmark-logo-letter-substitution` | 字标 logo 字母替换图标工作流 |
+| `workbuddy-skin-maker` | WorkBuddy 皮肤制作向导（交互式引导：配色→贴图→打包安装） |
 | `xhs-playwright-scraper` | 小红书抓取（账号/帖子/搜索三种模式，带图 Excel） |
 | `xiaohongshu-note-organizer` | 小红书笔记链接 → 结构化 Markdown 整理 |
 
